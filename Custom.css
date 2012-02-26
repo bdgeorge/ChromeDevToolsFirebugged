@@ -1,6 +1,9 @@
 /**
  * A Custom Style Sheet to make Chrome Dev Tools look a bit more like Firebug
- * Based largely on https://gist.github.com/1153881
+ * Inspired by https://gist.github.com/1153881 and Firebug
+ *
+ * License: GNU General Public License
+ * 
  */
 .monospace {
 	font: 11px/1.3 Monaco !important;
